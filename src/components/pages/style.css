@@ -1,0 +1,16 @@
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+  font-size:60px;
+}
+.float:hover {
+	text-decoration: none;
+	
+}
+
+.my-float{
+	margin-top:16px;
+}
